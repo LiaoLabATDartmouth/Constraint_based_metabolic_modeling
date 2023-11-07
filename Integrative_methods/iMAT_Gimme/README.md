@@ -1,6 +1,3 @@
-# Metabolic-modeling
-Tutorials for integrative metabolic modeling approaches: iMAT and Gimme
-
 File description:
 1. imat_gimme_algo_10302023.ipynb: Python codes for illustrating how both methods are used to infer metabolic fluxes in Pseudomonas aerugionsa isolates under different aztreonam concentrations.
 2. normalized_counts.csv: The read count matrix of RNAseq data.
